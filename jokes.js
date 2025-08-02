@@ -1,4 +1,4 @@
-export const jokes = [
+window.jokes = [
     "• What did one hat say to the other?You wait here. I’ll go on a head.",
     "• What do you call a magic dog?A labracadabrador.",
     "• What did the shark say when he ate the clownfish?This tastes a little funny.",
@@ -70,4 +70,5 @@ export const jokes = [
     "• Where do fish sleep?In the riverbed.",
     "• What do you call an alligator in a vest?An investigator.",
     "• I hate Russian dolls—", "They’re so full of themselves."
+
 ]
